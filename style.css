@@ -1,0 +1,19 @@
+
+.containerDiv1 {
+    display: flex;
+    justify-content: stretch;
+}
+
+.item {
+    width: 100%;
+}
+
+/*.item :nth-child(2) {*/
+/*    width: 10%;*/
+/*}*/
+
+.containerDiv2 {
+    display: flex;
+    justify-content: stretch;
+
+}
